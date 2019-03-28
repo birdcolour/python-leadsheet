@@ -1,0 +1,24 @@
+{
+  "page_type": "song",
+  "title": "Song title",
+  "artist": "Artist",
+  "composer": "Composer",
+  "body": {
+    "sections": [
+      "The (C)text of \n(G)Verse 1 goes here",
+      "This is the (F)Bridge",
+      "This is the (F)Chorus\nAnd it's quite (G)long\n\nIt comes in (Am)two separate stanzas",
+      "The (C)text of \n(G7)Verse 2 goes here"
+    ],
+    "names": ["1", "2", "chorus", "4"],
+    "order": ["1", "2", "chorus", "4", "chorus", "chorus", "chorus", "chorus", "chorus", "chorus", "chorus", "chorus", "chorus", "chorus", "chorus", "chorus"]
+  },
+  "chords": [
+    {"name": "C", "frets": "0003", "fingers": "___3"}
+  ],
+  "status": "proposed_edit",
+  "uuid": "1234",
+  "revision": 3,
+  "difficulty": 5,
+  "rating": 2
+}
